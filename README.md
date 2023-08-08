@@ -29,4 +29,4 @@
     Link to video explanation:-
 
 # Preview of the app
-   ![preview]()
+   ![preview](https://github.com/Abhoredaj/TheMeal_project/blob/main/img/Screenshot%202023-08-08%20080542.png)
