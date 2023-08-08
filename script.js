@@ -42,7 +42,10 @@ document.addEventListener('DOMContentLoaded', () => {
 
         // If no meals are found, display a message and return
         if (!meals) {
-          searchResults.innerHTML = '<p>No results found.</p>';
+          searchResults.innerHTML = `
+              <div style="background-color: #fdf5e6; width: 300px; border-radius: 10px; margin: 0 auto;">
+                    <h1 class="text-center mb-4" style="font-family: 'Lobster', cursive; color:red;">No results found.</h1>
+              </div'`;
           return;
         }
 
