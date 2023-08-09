@@ -26,7 +26,7 @@
 # Contributors
     Fahad Abul
 # Video Explanation
-    Link to video explanation:-
+    Link to video explanation:-(https://drive.google.com/file/d/14NSvceGIxUETItEw1Ofa64F7ThxAOB1I/view?usp=sharing)
 
 # Preview of the app
    ![preview](https://github.com/Abhoredaj/TheMeal_project/blob/main/img/Screenshot%202023-08-08%20080542.png)
